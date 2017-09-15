@@ -1,0 +1,8 @@
+/* absolute import does not work */
+@import "test.css";
+
+/* @import "./components/test.css" works */
+
+body {
+  background-color: red;
+}
