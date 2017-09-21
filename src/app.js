@@ -1,4 +1,4 @@
 // absolute import from /src/components
-var test = require('test.js');
+var test = require('./components/test.js');
 
 var style = require('./style.css');
